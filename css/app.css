@@ -1,6 +1,7 @@
-#header {
+header {
     font-size: xx-large;
     font-weight: bold;
+    text-align: center;
 }
 
 body {
@@ -20,4 +21,9 @@ footer {
     position: fixed;  bottom: 0;
     width: 100%;
     display: block;
+}
+
+button {
+    background-color: #008CBA;
+    cursor: pointer;
 }
